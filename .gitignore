@@ -1,0 +1,10 @@
+# Ignorar archivos de Python
+__pycache__/
+*.py[cod]
+
+# Ignorar carpetas de configuración
+.vscode/
+
+cropped_beetles/
+model_weights/
+images_for_testing/
