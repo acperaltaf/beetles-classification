@@ -1,0 +1,83 @@
+Métricas:
+Precisión: 0.8832
+Recall: 0.8832
+F1-score: 0.8849
+
+Reporte de clasificación:
+                             precision    recall  f1-score   support
+
+                 aphodinae_       0.00      0.00      0.00         1
+                  ateuchus_       0.86      0.75      0.80         8
+             canthidium_01h       0.87      0.90      0.88        51
+          canthon_acutoides       0.91      0.88      0.90        34
+          canthon_cyanellus       0.91      0.96      0.93        72
+           canthon_juvencus       0.84      0.95      0.89        66
+          canthon_mutabilis       0.88      0.85      0.86        26
+    canthon_septemmaculatus       0.96      0.93      0.95        56
+        canthon_subhyalinus       1.00      1.00      1.00         1
+                  canthon_x       1.00      1.00      1.00         1
+     coprophanaeus_corythus       1.00      0.90      0.95        10
+      coprophanaeus_gamezzi       1.00      1.00      1.00         1
+     deltochilum_guildingii       1.00      0.95      0.97        20
+    dichotomios_germanamati       1.00      1.00      1.00         1
+         dichotomius_agenor       1.00      0.60      0.75        10
+        dichotomius_tristis       0.86      0.93      0.90        69
+               dicothomios_       0.59      0.67      0.62        15
+  eurysternus_impressicolis       0.89      0.80      0.84        10
+      eurysternus_mexicanus       0.83      0.91      0.87        11
+             ontophagus_04h       0.89      0.80      0.84        49
+      ontophagus_bidentatus       0.85      0.79      0.82        95
+          ontophagus_lebasi       0.89      0.97      0.93        66
+    ontophagus_marginicolis       0.67      0.40      0.50         5
+    ontophagus_transistmius       1.00      1.00      1.00         1
+            phanaeus_hermes       1.00      1.00      1.00         1
+    pseuducanthon_perplexus       1.00      1.00      1.00         1
+             stenotothorax_       0.99      0.89      0.94       310
+sylvicanthon_aequinoctialis       0.00      0.00      0.00         3
+       tetraechma_lituratus       0.81      0.88      0.84        24
+                    uroxys_       0.54      0.91      0.68        44
+
+                   accuracy                           0.88      1062
+                  macro avg       0.83      0.82      0.82      1062
+               weighted avg       0.90      0.88      0.88      1062
+
+================================================================================
+================================================================================
+
+Clases faltantes en el conjunto de validación:
+- canthidium_02h
+- canthon_08h
+
+Distribución de imágenes por clase:
+aphodinae_: 4 imágenes
+ateuchus_: 42 imágenes
+canthidium_01h: 257 imágenes
+canthidium_02h: 2 imágenes
+canthon_08h: 2 imágenes
+canthon_acutoides: 168 imágenes
+canthon_cyanellus: 361 imágenes
+canthon_juvencus: 332 imágenes
+canthon_mutabilis: 129 imágenes
+canthon_septemmaculatus: 282 imágenes
+canthon_subhyalinus: 4 imágenes
+canthon_x: 4 imágenes
+coprophanaeus_corythus: 50 imágenes
+coprophanaeus_gamezzi: 4 imágenes
+deltochilum_guildingii: 100 imágenes
+dichotomios_germanamati: 4 imágenes
+dichotomius_agenor: 48 imágenes
+dichotomius_tristis: 342 imágenes
+dicothomios_: 76 imágenes
+eurysternus_impressicolis: 50 imágenes
+eurysternus_mexicanus: 56 imágenes
+ontophagus_04h: 247 imágenes
+ontophagus_bidentatus: 474 imágenes
+ontophagus_lebasi: 328 imágenes
+ontophagus_marginicolis: 26 imágenes
+ontophagus_transistmius: 6 imágenes
+phanaeus_hermes: 3 imágenes
+pseuducanthon_perplexus: 4 imágenes
+stenotothorax_: 1548 imágenes
+sylvicanthon_aequinoctialis: 15 imágenes
+tetraechma_lituratus: 120 imágenes
+uroxys_: 222 imágenes

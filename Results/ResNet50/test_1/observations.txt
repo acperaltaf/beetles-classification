@@ -1,0 +1,3 @@
+Este entrenamiento tuvo una división de datos de 80% y 20% para test y val. Posteriormente se aplicó aumentación de datos solo en el conjunto de test sin guardas las imágenes generadas en local.
+
+Probablemente esto influyó en que el conjunto de validación hayan faltado 2 de las 32 especies a pesar de la división estratificada
