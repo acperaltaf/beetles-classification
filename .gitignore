@@ -4,7 +4,7 @@ __pycache__/
 
 # Ignorar carpetas de configuración
 .vscode/
-
+desktop.ini/
 cropped_beetles/
 model_weights/
 images_for_testing/

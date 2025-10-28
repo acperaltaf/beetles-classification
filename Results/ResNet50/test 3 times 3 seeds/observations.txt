@@ -1,0 +1,3 @@
+Se realizarán 3 entrenamientos con diferentes divisiones train/val sin validación cruzada.
+Semillas aleatorias: [42, 123, 456]
+

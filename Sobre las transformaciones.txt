@@ -1,0 +1,15 @@
+🎯 Características Principales de las transformaciones a los datos aumentados:
+1. Augmentation Adaptativo Inteligente
+Estrategia Adaptativa:
+≤6 imágenes: 25 variantes (transformaciones agresivas)
+≤80 imágenes: 15 variantes (transformaciones moderadas)
+≤300 imágenes: 10 variantes (transformaciones moderadas-leves)
+≤500 imágenes: 7 variantes (transformaciones leves)
+>500 imágenes: 4 variantes (transformaciones muy leves)
+Cada nivel tiene transformaciones específicas de PyTorch/TorchVision:
+
+Agresivas: Rotación 30°, flip vertical/horizontal, perspectiva, color jitter intenso, blur, sharpness
+Moderadas: Rotación 20°, transformaciones afines, color jitter moderado
+Leves: Rotación 10°, cambios mínimos de color y geometría
+
+
