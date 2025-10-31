@@ -30,7 +30,7 @@ ENTRENAMIENTO 1 (Semilla: 42)
                   canthon_x       1.00      1.00      1.00         1
      coprophanaeus_corythus       1.00      0.80      0.89        10
       coprophanaeus_gamezzi       1.00      1.00      1.00         1
-     deltochilum_guildingii       1.00      0.95      0.97        20
+     deltochilum_guildingii       1.00      0.95      0.97        20  
     dichotomios_germanamati       0.00      0.00      0.00         1
          dichotomius_agenor       0.78      0.70      0.74        10
         dichotomius_tristis       0.89      0.93      0.91        69
