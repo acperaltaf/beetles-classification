@@ -1,0 +1,2 @@
+Para este entrenamiento se aplicó aumentación de datos sobre todo el conjunto de datos.
+Las imágenes generadas se usaron para entrenar el modelo y las imágenes originales se usaron para validación durante el entrenamiento

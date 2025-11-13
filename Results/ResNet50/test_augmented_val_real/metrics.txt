@@ -1,0 +1,44 @@
+Métricas:
+Precisión: 0.9996
+Recall: 0.9996
+F1-score: 0.9996
+
+Reporte de clasificación:
+                             precision    recall  f1-score   support
+
+                 aphodinae_       1.00      1.00      1.00         4
+                  ateuchus_       1.00      1.00      1.00        42
+             canthidium_01h       1.00      1.00      1.00       257
+             canthidium_02h       1.00      1.00      1.00         2
+                canthon_08h       1.00      1.00      1.00         2
+          canthon_acutoides       1.00      1.00      1.00       168
+          canthon_cyanellus       1.00      1.00      1.00       361
+           canthon_juvencus       1.00      1.00      1.00       332
+          canthon_mutabilis       1.00      1.00      1.00       129
+    canthon_septemmaculatus       1.00      1.00      1.00       282
+        canthon_subhyalinus       1.00      1.00      1.00         4
+                  canthon_x       1.00      1.00      1.00         4
+     coprophanaeus_corythus       1.00      1.00      1.00        50
+      coprophanaeus_gamezzi       1.00      1.00      1.00         4
+     deltochilum_guildingii       1.00      1.00      1.00       100
+    dichotomios_germanamati       1.00      1.00      1.00         4
+         dichotomius_agenor       1.00      1.00      1.00        48
+        dichotomius_tristis       1.00      1.00      1.00       342
+               dicothomios_       1.00      1.00      1.00        76
+  eurysternus_impressicolis       1.00      1.00      1.00        50
+      eurysternus_mexicanus       1.00      1.00      1.00        56
+             ontophagus_04h       1.00      1.00      1.00       247
+      ontophagus_bidentatus       1.00      1.00      1.00       474
+          ontophagus_lebasi       1.00      1.00      1.00       328
+    ontophagus_marginicolis       1.00      0.96      0.98        26
+    ontophagus_transistmius       1.00      1.00      1.00         6
+            phanaeus_hermes       1.00      1.00      1.00         3
+    pseuducanthon_perplexus       1.00      1.00      1.00         4
+             stenotothorax_       1.00      1.00      1.00      1548
+sylvicanthon_aequinoctialis       1.00      1.00      1.00        15
+       tetraechma_lituratus       1.00      1.00      1.00       120
+                    uroxys_       1.00      1.00      1.00       222
+
+                   accuracy                           1.00      5310
+                  macro avg       1.00      1.00      1.00      5310
+               weighted avg       1.00      1.00      1.00      5310

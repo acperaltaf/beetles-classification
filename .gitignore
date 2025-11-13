@@ -4,9 +4,9 @@ __pycache__/
 
 # Ignorar carpetas de configuración
 .vscode/
-
+desktop.ini/
 cropped_beetles/
 model_weights/
 images_for_testing/
-best_beetle_model.pth
-beetle_classifier_resnet50.pth
+
+*.pth
